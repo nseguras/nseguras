@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nseguras
+- 👀 I’m interested in civil engineering
+- 🌱 I’m currently learning phyton and html 
