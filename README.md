@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @nseguras
-- 👀 I’m interested in civil engineering
-- 🌱 I’m currently learning phyton and html 
+- 👀 MSc Civil Engineering
+- ✨ I know well MATLAB and Python
+- 🌱 I’m currently learning C# and HTML JS and CSS for web development.
