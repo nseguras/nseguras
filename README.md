@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nseguras
 - 👀 MSc Civil Engineering
 - ✨ I know well MATLAB and Python
-- 🌱 I’m currently learning C# and HTML JS and CSS for web development.
+- 🌱 I’m currently learning Python and React for web development.
